@@ -1,8 +1,18 @@
-##  Hi, I’m Rohith – a passionate Java Full Stack Developer with around 4 years of experience building scalable web applications using Java, Spring Boot, Angular, React, Microservices, and cloud platforms like AWS & Azure. I love writing clean code, solving complex backend problems, and delivering smooth user experiences.
+## 🎯 Hi, I’m Rohith – a passionate Java Full Stack Developer with around 4 years of experience building robust, scalable, and user-friendly web applications using Java, Spring Boot, Angular, React, Microservices, and cloud platforms like AWS & Azure. I love writing clean code, solving complex backend problems, and delivering smooth user experiences. I specialize in backend development, cloud computing, and system architecture, with a strong foundation in front-end technologies and UI/UX principles.
 
 💡 Currently exploring Software Development Engineer roles focused on distributed systems and performance optimization.
 📚 Master’s in Computer Science from George Mason University.
 🚀 Open to new opportunities – let’s build something great together!
+
+## Technologies
+Welcome to my GitHub!
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohith-kadaru-6285b2329/)
+- 📧 rohithsk9515@gmail.com
+
+
 
 
 
