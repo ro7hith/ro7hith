@@ -4,7 +4,7 @@
 📚 Master’s in Computer Science from George Mason University.
 🚀 Open to new opportunities – let’s build something great together!
 
-## 💻 Technologies
+
 Welcome to my GitHub!
 
 ## 🌐 Connect With Me
